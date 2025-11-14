@@ -1,0 +1,42 @@
+BASIC COMMANDS:
+
+
+git init(it is use to initialize a repo)
+git status(it is use to see the status of the repo)
+git add filename.py (it is use to add a specific file to track mode)
+git add . (it is use to add all files to the track mode)
+git commit -m "Commit message" (it is used to commit all files to the local repo)
+.gitignore (it is use to hide all the files that u don't want to push to git)
+
+
+
+SEEING COMMANDS:
+
+
+git log (to see the details of all the commits)
+git log --oneline(to see the details of all commits in a better format)
+git log --stat (to check the details on a commit level)
+git log -p (to see the code changes on commit level)
+git show <sha id> (to see details of specific commit)
+git diff (to see the changes made in staging before commiting to local repo)
+
+
+BRANCHING AND MERGING COMMANDS:
+
+
+git branch <name> <shaid> (is is use to create a new branch)
+git branch (use to list all the branches)
+git checkout <branch> (it is use to switch between branches)
+git log --oneline --all (it is use to see all the commit details from all branches)
+git log --oneline --all --graph (it is use to see all the commit details from all branches in a graph form)
+git branch -d/-D <branch> (it is use to delete a branch)
+git merge <branch> (it is use to merge a branch to master/main and must be used master)
+
+
+REMOTE REPO COMMANDS:
+
+
+git remote add origin <url> (it is use to declare a remote repo)
+git push origin master/main (it is use to send local repo to remote repo)
+git pull origin master (it is use to get files or code from the remote repo)
+git clone <url> (it is use to download the remote repo)

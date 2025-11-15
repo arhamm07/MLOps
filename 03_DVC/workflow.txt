@@ -16,3 +16,12 @@
 12. Then git add-commit-push (we're saving V2 of our data at this point)
 13. Check dvc/git status, everything should be upto date.
 14. Now repeat step 10-12 for v3 of data.
+
+Move to first version of data:
+first we get the sha id using git log --oneline
+then we do git checkout <sha id> to go to that specific commit were we have data v1
+and then do dvc status to see what dvc is saying 
+and do dvc pull to get the v1 data 
+and now if we want to go back to the v3 version of data then we will do git checkout main
+then do dvc status to see what dvc is saying
+then do dvc pull to get the v3 data

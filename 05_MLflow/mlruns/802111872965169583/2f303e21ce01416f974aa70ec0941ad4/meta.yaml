@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802111872965169583/2f303e21ce01416f974aa70ec0941ad4/artifacts
+end_time: 1763390466510
+entry_point_name: ''
+experiment_id: '802111872965169583'
+lifecycle_stage: active
+run_id: 2f303e21ce01416f974aa70ec0941ad4
+run_name: secretive-shrike-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763390455307
+status: 3
+tags: []
+user_id: Lifebook E449

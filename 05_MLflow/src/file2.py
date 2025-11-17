@@ -7,8 +7,10 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+import dagshub
+dagshub.init(repo_owner='arhamm07', repo_name='MLOps', mlflow=True)
 
-mlflow.set_tracking_uri("http://localhost:5000")
+mlflow.set_tracking_uri("https://dagshub.com/arhamm07/MLOps.mlflow")
 
 wine = load_wine()
 
@@ -49,7 +51,8 @@ with mlflow.start_run():
 
     mlflow.log_artifact(__file__)
 
-    mlflow.sklearn.log_model(rf, "model")
+    mlflow.sklearn.save_model(rf, "model")
+    mlflow.log_artifacts("model", artifact_path="model")
 
     print(accuracy)
     

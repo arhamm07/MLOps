@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/31dd51e630584a75b1e02eb7c5944f63/artifacts
+end_time: 1763386448934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31dd51e630584a75b1e02eb7c5944f63
+run_name: clumsy-shrew-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763386448809
+status: 3
+tags: []
+user_id: Lifebook E449

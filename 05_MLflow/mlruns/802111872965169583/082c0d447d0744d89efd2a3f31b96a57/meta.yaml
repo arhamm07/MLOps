@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802111872965169583/082c0d447d0744d89efd2a3f31b96a57/artifacts
+end_time: 1763387628003
+entry_point_name: ''
+experiment_id: '802111872965169583'
+lifecycle_stage: active
+run_id: 082c0d447d0744d89efd2a3f31b96a57
+run_name: bemused-snake-266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763387626183
+status: 3
+tags: []
+user_id: Lifebook E449

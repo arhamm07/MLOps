@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802111872965169583/de4ee8ed47964cb990b65420cbaad7d9/artifacts
+end_time: 1763388020540
+entry_point_name: ''
+experiment_id: '802111872965169583'
+lifecycle_stage: active
+run_id: de4ee8ed47964cb990b65420cbaad7d9
+run_name: invincible-shark-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763388002808
+status: 3
+tags: []
+user_id: Lifebook E449

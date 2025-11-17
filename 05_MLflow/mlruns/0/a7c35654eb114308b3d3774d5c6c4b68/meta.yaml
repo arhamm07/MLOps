@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a7c35654eb114308b3d3774d5c6c4b68/artifacts
+end_time: 1763387187183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7c35654eb114308b3d3774d5c6c4b68
+run_name: sincere-stag-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763387183903
+status: 3
+tags: []
+user_id: Lifebook E449

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ca33eee164e74b3589ee02d4c43e68b2/artifacts
+end_time: 1763386182680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca33eee164e74b3589ee02d4c43e68b2
+run_name: overjoyed-bug-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763386182525
+status: 3
+tags: []
+user_id: Lifebook E449

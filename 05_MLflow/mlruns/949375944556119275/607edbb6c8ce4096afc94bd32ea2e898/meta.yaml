@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/05_MLflow/mlruns/949375944556119275/607edbb6c8ce4096afc94bd32ea2e898/artifacts
+end_time: 1763391073997
+entry_point_name: ''
+experiment_id: '949375944556119275'
+lifecycle_stage: active
+run_id: 607edbb6c8ce4096afc94bd32ea2e898
+run_name: dashing-lamb-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763391073882
+status: 3
+tags: []
+user_id: Lifebook E449

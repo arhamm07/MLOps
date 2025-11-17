@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/05_MLflow/mlruns/949375944556119275/30a9cd3c984d42259dc4e899a9f91214/artifacts
+end_time: 1763391072742
+entry_point_name: ''
+experiment_id: '949375944556119275'
+lifecycle_stage: active
+run_id: 30a9cd3c984d42259dc4e899a9f91214
+run_name: crawling-swan-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763391072622
+status: 3
+tags: []
+user_id: Lifebook E449

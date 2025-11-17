@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/05_MLflow/mlruns/949375944556119275/1869b3eaa9cf4bb0b9ae96a6966d1a47/artifacts
+end_time: 1763391073748
+entry_point_name: ''
+experiment_id: '949375944556119275'
+lifecycle_stage: active
+run_id: 1869b3eaa9cf4bb0b9ae96a6966d1a47
+run_name: rumbling-conch-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763391073624
+status: 3
+tags: []
+user_id: Lifebook E449

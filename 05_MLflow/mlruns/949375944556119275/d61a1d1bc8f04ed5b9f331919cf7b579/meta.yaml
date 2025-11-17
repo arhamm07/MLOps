@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/05_MLflow/mlruns/949375944556119275/d61a1d1bc8f04ed5b9f331919cf7b579/artifacts
+end_time: 1763391073452
+entry_point_name: ''
+experiment_id: '949375944556119275'
+lifecycle_stage: active
+run_id: d61a1d1bc8f04ed5b9f331919cf7b579
+run_name: bright-cub-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763391073352
+status: 3
+tags: []
+user_id: Lifebook E449

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/05_MLflow/mlruns/949375944556119275/0ac8ca160cbc4bb69cf0c99a1a650163/artifacts
+end_time: 1763391074147
+entry_point_name: ''
+experiment_id: '949375944556119275'
+lifecycle_stage: active
+run_id: 0ac8ca160cbc4bb69cf0c99a1a650163
+run_name: flawless-skunk-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763391074018
+status: 3
+tags: []
+user_id: Lifebook E449

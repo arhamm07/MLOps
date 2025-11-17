@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/05_MLflow/mlruns/949375944556119275/e7f4dec3edea440c9daebb8b16079c04/artifacts
+end_time: 1763391073216
+entry_point_name: ''
+experiment_id: '949375944556119275'
+lifecycle_stage: active
+run_id: e7f4dec3edea440c9daebb8b16079c04
+run_name: rebellious-goat-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763391073116
+status: 3
+tags: []
+user_id: Lifebook E449

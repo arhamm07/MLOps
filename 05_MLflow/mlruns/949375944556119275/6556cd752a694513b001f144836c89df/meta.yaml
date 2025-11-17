@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/05_MLflow/mlruns/949375944556119275/6556cd752a694513b001f144836c89df/artifacts
+end_time: 1763391073867
+entry_point_name: ''
+experiment_id: '949375944556119275'
+lifecycle_stage: active
+run_id: 6556cd752a694513b001f144836c89df
+run_name: sassy-steed-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763391073752
+status: 3
+tags: []
+user_id: Lifebook E449

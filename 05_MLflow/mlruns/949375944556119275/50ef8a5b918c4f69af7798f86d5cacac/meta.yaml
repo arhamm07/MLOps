@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/05_MLflow/mlruns/949375944556119275/50ef8a5b918c4f69af7798f86d5cacac/artifacts
+end_time: 1763391091092
+entry_point_name: ''
+experiment_id: '949375944556119275'
+lifecycle_stage: active
+run_id: 50ef8a5b918c4f69af7798f86d5cacac
+run_name: handsome-stoat-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763391056312
+status: 3
+tags: []
+user_id: Lifebook E449

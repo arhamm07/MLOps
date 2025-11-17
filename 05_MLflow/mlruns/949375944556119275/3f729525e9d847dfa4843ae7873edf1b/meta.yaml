@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/05_MLflow/mlruns/949375944556119275/3f729525e9d847dfa4843ae7873edf1b/artifacts
+end_time: 1763391072983
+entry_point_name: ''
+experiment_id: '949375944556119275'
+lifecycle_stage: active
+run_id: 3f729525e9d847dfa4843ae7873edf1b
+run_name: awesome-ox-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763391072882
+status: 3
+tags: []
+user_id: Lifebook E449

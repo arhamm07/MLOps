@@ -28,4 +28,4 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest 06_Continous_Integration(CI)\_test.py
+        pytest 06_Continous_Integration(CI)/_test.py

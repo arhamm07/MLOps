@@ -37,6 +37,7 @@ REMOTE REPO COMMANDS:
 
 
 git remote add origin <url> (it is use to declare a remote repo)
+git branch -M main (renaming master to main to push code to remote repo)
 git push origin master/main (it is use to send local repo to remote repo)
 git pull origin master (it is use to get files or code from the remote repo)
 git clone <url> (it is use to download the remote repo)
